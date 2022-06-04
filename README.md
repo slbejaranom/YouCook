@@ -1,2 +1,2 @@
 # YouCook
-Proyecto de aplicación ecommerce básica
+Proyecto de aplicación ecommerce básic
